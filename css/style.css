@@ -1,0 +1,9 @@
+input:invalid {
+    border-color: #f33;
+    background-color: #FDD
+}
+
+.error {
+    display: block;
+    color: green;
+}
